@@ -1,0 +1,13 @@
+scikit-learn
+matplotlib
+ipdb
+jupyterlab
+numpy
+pandas
+seaborn
+scipy
+pylint
+pytest
+opencv-python
+tensorflow
+pillow
